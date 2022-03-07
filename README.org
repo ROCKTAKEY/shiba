@@ -1,0 +1,9 @@
+[[https://github.com/ROCKTAKEY/shiba][https://img.shields.io/github/tag/ROCKTAKEY/shiba.svg?style=flat-square]]
+[[file:LICENSE][https://img.shields.io/github/license/ROCKTAKEY/shiba.svg?style=flat-square]]
+[[https://codecov.io/gh/ROCKTAKEY/shiba?branch=master][https://img.shields.io/codecov/c/github/ROCKTAKEY/shiba.svg?style=flat-square]]
+[[https://github.com/ROCKTAKEY/shiba/actions][https://img.shields.io/github/workflow/status/ROCKTAKEY/shiba/test/master.svg?style=flat-square]]
+* shiba🐕: Manage git hooks with Emacs
+Inspired by [[https://github.com/typicode/husky][husky]].
+* How to Use?
+* License
+  This package is licensed by GPLv3. See [[file:LICENSE][LICENSE]].
